@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\CustomGenericStructure\bin\Debug\CustomGenericStructure.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\CustomGenericStructure\bin\Debug\CustomGenericStructure.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\CustomGenericStructure\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\CustomGenericStructure\obj\x86\Debug\CustomGenericStructure.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\CustomGenericStructure\obj\x86\Debug\CustomGenericStructure.pdb

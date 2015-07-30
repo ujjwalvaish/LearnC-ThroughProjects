@@ -1,0 +1,5 @@
+C:\Users\UVaish\Documents\C# Projects\DelegateDetailed\DelegateDetailed\bin\Release\DelegateDetailed.exe
+C:\Users\UVaish\Documents\C# Projects\DelegateDetailed\DelegateDetailed\bin\Release\DelegateDetailed.pdb
+C:\Users\UVaish\Documents\C# Projects\DelegateDetailed\DelegateDetailed\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\UVaish\Documents\C# Projects\DelegateDetailed\DelegateDetailed\obj\x86\Release\DelegateDetailed.exe
+C:\Users\UVaish\Documents\C# Projects\DelegateDetailed\DelegateDetailed\obj\x86\Release\DelegateDetailed.pdb
