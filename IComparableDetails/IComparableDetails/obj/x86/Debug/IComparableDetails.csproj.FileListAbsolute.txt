@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\IComparableDetails\bin\Debug\IComparableDetails.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\IComparableDetails\bin\Debug\IComparableDetails.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\IComparableDetails\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\IComparableDetails\obj\x86\Debug\IComparableDetails.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\IComparableDetails\obj\x86\Debug\IComparableDetails.pdb

@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\IndexingDataUsingStrings\bin\Debug\IndexingDataUsingStrings.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\IndexingDataUsingStrings\bin\Debug\IndexingDataUsingStrings.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\IndexingDataUsingStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\IndexingDataUsingStrings\obj\x86\Debug\IndexingDataUsingStrings.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\IndexingDataUsingStrings\obj\x86\Debug\IndexingDataUsingStrings.pdb

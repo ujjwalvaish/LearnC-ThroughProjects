@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\ICloneableDetails\bin\Debug\ICloneableDetails.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\ICloneableDetails\bin\Debug\ICloneableDetails.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\ICloneableDetails\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\ICloneableDetails\obj\x86\Debug\ICloneableDetails.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\ICloneableDetails\obj\x86\Debug\ICloneableDetails.pdb
