@@ -1,0 +1,4 @@
+c:\users\uvaish\documents\visual studio 2010\Projects\EnumsInDepth\EnumsInDepth\bin\Debug\EnumsInDepth.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\EnumsInDepth\EnumsInDepth\bin\Debug\EnumsInDepth.pdb
+c:\users\uvaish\documents\visual studio 2010\Projects\EnumsInDepth\EnumsInDepth\obj\x86\Debug\EnumsInDepth.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\EnumsInDepth\EnumsInDepth\obj\x86\Debug\EnumsInDepth.pdb
