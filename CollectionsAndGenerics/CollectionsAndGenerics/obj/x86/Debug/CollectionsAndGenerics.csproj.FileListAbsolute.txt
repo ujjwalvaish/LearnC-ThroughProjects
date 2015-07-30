@@ -1,0 +1,7 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\CollectionsAndGenerics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\CollectionsAndGenerics\obj\x86\Debug\CollectionsAndGenerics.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\CollectionsAndGenerics\obj\x86\Debug\CollectionsAndGenerics.pdb
+C:\Users\UVaish\Documents\C# Projects\CollectionsAndGenerics\CollectionsAndGenerics\obj\x86\Debug\CollectionsAndGenerics.exe
+C:\Users\UVaish\Documents\C# Projects\CollectionsAndGenerics\CollectionsAndGenerics\obj\x86\Debug\CollectionsAndGenerics.pdb
