@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\EventKeywordUsage\bin\Debug\EventKeywordUsage.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\EventKeywordUsage\bin\Debug\EventKeywordUsage.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\EventKeywordUsage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\EventKeywordUsage\obj\x86\Debug\EventKeywordUsage.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\EventKeywordUsage\obj\x86\Debug\EventKeywordUsage.pdb
