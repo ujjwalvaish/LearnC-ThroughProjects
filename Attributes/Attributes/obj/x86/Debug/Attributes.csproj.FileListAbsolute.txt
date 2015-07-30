@@ -1,0 +1,4 @@
+c:\users\uvaish\documents\visual studio 2010\Projects\Attributes\Attributes\bin\Debug\Attributes.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\Attributes\Attributes\bin\Debug\Attributes.pdb
+c:\users\uvaish\documents\visual studio 2010\Projects\Attributes\Attributes\obj\x86\Debug\Attributes.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\Attributes\Attributes\obj\x86\Debug\Attributes.pdb

@@ -1,0 +1,5 @@
+c:\users\uvaish\documents\visual studio 2010\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+c:\users\uvaish\documents\visual studio 2010\Projects\AccessModifiers\AccessModifiers\obj\x86\Debug\AccessModifiers.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\AccessModifiers\AccessModifiers\obj\x86\Debug\AccessModifiers.pdb
+C:\Users\uvaish\Documents\Visual Studio 2010\Projects\AccessModifiers\AccessModifiers\obj\x86\Debug\AccessModifiers.csprojResolveAssemblyReference.cache

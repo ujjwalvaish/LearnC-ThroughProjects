@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\ActionAndFuncDelegate\bin\Debug\ActionAndFuncDelegate.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\ActionAndFuncDelegate\bin\Debug\ActionAndFuncDelegate.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\ActionAndFuncDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\ActionAndFuncDelegate\obj\x86\Debug\ActionAndFuncDelegate.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\ActionAndFuncDelegate\obj\x86\Debug\ActionAndFuncDelegate.pdb
