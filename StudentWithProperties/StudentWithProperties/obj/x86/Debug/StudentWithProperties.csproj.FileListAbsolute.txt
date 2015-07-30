@@ -1,0 +1,5 @@
+C:\Users\UVaish\Documents\C# Projects\StudentWithProperties\StudentWithProperties\bin\Debug\StudentWithProperties.exe
+C:\Users\UVaish\Documents\C# Projects\StudentWithProperties\StudentWithProperties\bin\Debug\StudentWithProperties.pdb
+C:\Users\UVaish\Documents\C# Projects\StudentWithProperties\StudentWithProperties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\Documents\C# Projects\StudentWithProperties\StudentWithProperties\obj\x86\Debug\StudentWithProperties.exe
+C:\Users\UVaish\Documents\C# Projects\StudentWithProperties\StudentWithProperties\obj\x86\Debug\StudentWithProperties.pdb
