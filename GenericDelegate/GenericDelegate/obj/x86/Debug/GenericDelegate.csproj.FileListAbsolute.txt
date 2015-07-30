@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\GenericDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\GenericDelegate\obj\x86\Debug\GenericDelegate.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\GenericDelegate\obj\x86\Debug\GenericDelegate.pdb
