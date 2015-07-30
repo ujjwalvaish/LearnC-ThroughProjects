@@ -1,0 +1,4 @@
+c:\users\uvaish\documents\visual studio 2010\Projects\PartialClasses\PartialClasses\bin\Debug\PartialClasses.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\PartialClasses\PartialClasses\bin\Debug\PartialClasses.pdb
+c:\users\uvaish\documents\visual studio 2010\Projects\PartialClasses\PartialClasses\obj\x86\Debug\PartialClasses.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\PartialClasses\PartialClasses\obj\x86\Debug\PartialClasses.pdb
