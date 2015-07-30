@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\LINQOverArray\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\LINQOverArray\bin\Release\LINQOverArray.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\LINQOverArray\bin\Release\LINQOverArray.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\LINQOverArray\obj\x86\Release\LINQOverArray.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\LINQOverArray\obj\x86\Release\LINQOverArray.pdb
