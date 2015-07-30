@@ -1,0 +1,5 @@
+C:\Users\UVaish\AppData\Local\Temporary Projects\StackClass\bin\Debug\StackClass.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\StackClass\bin\Debug\StackClass.pdb
+C:\Users\UVaish\AppData\Local\Temporary Projects\StackClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UVaish\AppData\Local\Temporary Projects\StackClass\obj\x86\Debug\StackClass.exe
+C:\Users\UVaish\AppData\Local\Temporary Projects\StackClass\obj\x86\Debug\StackClass.pdb
