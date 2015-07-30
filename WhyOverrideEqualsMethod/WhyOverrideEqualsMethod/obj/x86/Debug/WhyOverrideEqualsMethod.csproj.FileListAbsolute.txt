@@ -1,0 +1,4 @@
+c:\users\uvaish\documents\visual studio 2010\Projects\WhyOverrideEqualsMethod\WhyOverrideEqualsMethod\bin\Debug\WhyOverrideEqualsMethod.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\WhyOverrideEqualsMethod\WhyOverrideEqualsMethod\bin\Debug\WhyOverrideEqualsMethod.pdb
+c:\users\uvaish\documents\visual studio 2010\Projects\WhyOverrideEqualsMethod\WhyOverrideEqualsMethod\obj\x86\Debug\WhyOverrideEqualsMethod.exe
+c:\users\uvaish\documents\visual studio 2010\Projects\WhyOverrideEqualsMethod\WhyOverrideEqualsMethod\obj\x86\Debug\WhyOverrideEqualsMethod.pdb
